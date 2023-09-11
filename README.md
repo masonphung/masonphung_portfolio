@@ -1,2 +1,3 @@
-# Mason_Portfolio
-my data science's work
+# Mason Phung | Portfolio
+
+summary of my data science's work
